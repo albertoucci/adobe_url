@@ -99,8 +99,6 @@ account.adobe.com
 acp-ss-an1.adobe.io
 acp-ss-ew1.adobe.io
 acp-ss.adobe.io
-*.adbecrsl.com
-*.adbephotos.com
 adobe.ly
 adobesearch.adobe.io
 appregistry.adobe.io
@@ -134,7 +132,6 @@ comments.adobe.io
 community.adobe.com
 connect.ffc.adobeoobe.com
 creativecloud.adobe.com
-*.creativecloud.com
 cvs.adobe.com
 d32a1iuc7x840y.cloudfront.net
 d3gnp5fs6fu2h7.cloudfront.net
@@ -163,17 +160,13 @@ links.adobe.io
 livecreate-an1.adobe.io
 livecreate-ew1.adobe.io
 livecreate-ue1.adobe.io
-*.macromedia.com
 mail.adobegov.com
 odin.adobe.com
-*.omniture.com
 pgc.adobe.io
 photos.adobe.io
 photoshop.adobe.com
 platform-assets.typekit.net
-platform-cs*.adobe.io
 platform-cs.adobe.io
-acp-*.adobe.io
 presence-an1.adobe.io
 presence-ew1.adobe.io
 presence-ue1.adobe.io
@@ -207,9 +200,6 @@ use.typekit.com
 utut-service.adobe.com
 v.ftcdn.net
 video-v1.ff.adobe.io
-wss://livecreate-*.adobe.io
-wss://presence-*.adobe.io
-wss://speech.platform.bing.com
 xd-cdn.adobecces.com
 xd.adobe.com
 xdce.adobe.io
@@ -271,9 +261,6 @@ cdn-prod-ccv.adobe.com
 clientservices.googleapis.com
 cm.everesttech.net
 configuration.apple.com
-detect.ffc.adobeoobe.com:15292
-detect.ffc.adobeoobe.com:35691
-detect.ffc.adobeoobe.com:57921
 dpm.demdex.net
 dq4p8hz4ypg6l.cloudfront.net
 express.adobe.com
@@ -308,21 +295,16 @@ wss://prod.wam.adobe.com
 braze-images.com
 sdk.iad-01.braze.com
 cpf-temp-repo-ue1-prod.s3.amazonaws.com
-*.adobesc.com
 acpprodva7apollo.blob.core.windows.net/acp-prod-va7-data*
 acp-ss-*.adobe.io
-*.adobess.com
 cc-api-storage*.adobe.io
 assets2.adobe.com
 adobeexchange.com
 adbemdigitalmediarebootprod2.112.2o7.net
 cdn.tt.omtrdc.net
 api.demandbase.com
-*.ftcdn.net
-*.behance.net
 cc-api-image.adobe.io/createagc
 cc-api-image-x.adobe.io/agctosvg
-*.astockcdn.net
 cc-api-assets.adobe.io
 api.behance.net
 adobe.demdex.net
@@ -330,8 +312,6 @@ adobe.tt.omtrdc.net
 store1.adobe.com
 adobe.com
 bam.nr-data.net
-*.adobe.io
-*.s3*.amazonaws.com
 bat.bing.com
 c.betrad.com
 c.evidon.com
@@ -354,7 +334,6 @@ adobetag.com
 ans.oobesas.adobe.com
 api.adobe.io
 adobeexchange.com/api
-*.licenses.adobe.com
 amazonaws.com
 adobe.io
 cc-api-sharedproductions-prerelease.adobe.io
@@ -409,7 +388,6 @@ afwebcdn.fonts.adobe.com
 businesscatalyst.com
 digitalpublishing.acrobat.com
 color.adobe.com
-*.services.adobe.com
 lcs-entitlement.adobe.io/v1/user
 lcs-entitlement.adobe.io/v1/trial
 licensing.adobe.com
@@ -423,7 +401,6 @@ wss://phonos-server.adobe.io
 phonos-recordings-production.s3-accelerate.amazonaws.com
 phonos-recordings-production.s3.amazonaws.com
 cdn.cookielaw.org
-*.kinesisvideo.*.amazonaws.com
 daily.co
 wss.daily.co
 prod-ks.pluot.blue
@@ -464,7 +441,6 @@ msdn.microsoft.com
 www.zoomify.com
 www.evidon.com
 www.betrad.com
-*.uservoice.com
 thawte.com
 verisign.com
 api.mapbox.com
