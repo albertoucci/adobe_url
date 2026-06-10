@@ -385,8 +385,6 @@ image.adobe.io/sensei/mask
 image.adobe.io/utils/storage?num=2
 mds-cdn.infra.adobesensei.io
 senseimds.adobe.io
-Windows:
-Apple:
 creative.adobe.com
 myportfolio.com
 splcloud.adobe.io
