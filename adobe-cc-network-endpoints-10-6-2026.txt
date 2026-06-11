@@ -55,7 +55,6 @@ www-prod.adobesunbreak.com
 genuine.adobe.com
 prod.adobegenuine.com
 gocart-web-prod-*.elb.amazonaws.com
-http://armdl.adobe.com/
 api-cna01.adobe-services.com
 supportanyware.adobe.io
 acc-learn.adobe.com
@@ -244,7 +243,6 @@ firefly.adobe.com
 firefly-md.adobe.io
 clio-assets.adobe.com
 firefly-cliov2.adobe.com
-raw.githubusercontent.com/c2pa-org
 senseicore-ue1.adobe.io
 sensei-ue1.adobe.io
 firefly-st.adobe.io
@@ -291,11 +289,11 @@ stocks-data-service.apple.com
 uds.adobe-identity.com
 video.tv.adobe.com
 weather-data.apple.com
-wss://prod.wam.adobe.com
+
 braze-images.com
 sdk.iad-01.braze.com
 cpf-temp-repo-ue1-prod.s3.amazonaws.com
-acpprodva7apollo.blob.core.windows.net/acp-prod-va7-data*
+
 acp-ss-*.adobe.io
 cc-api-storage*.adobe.io
 assets2.adobe.com
@@ -303,8 +301,7 @@ adobeexchange.com
 adbemdigitalmediarebootprod2.112.2o7.net
 cdn.tt.omtrdc.net
 api.demandbase.com
-cc-api-image.adobe.io/createagc
-cc-api-image-x.adobe.io/agctosvg
+
 cc-api-assets.adobe.io
 api.behance.net
 adobe.demdex.net
