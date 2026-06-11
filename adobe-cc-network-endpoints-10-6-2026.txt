@@ -330,7 +330,6 @@ cc-api-teamprojects-ue1.adobe.io
 cc-api-teamprojects-ew1.adobe.io
 cc-api-teamprojects-an1.adobe.io
 docs.aws.amazon.com/general/latest/gr/
-rande.html#s3_region
 adobe-voice.adobe.io
 adobe-voice-va7.adobe.io
 adobe-voice-nld2.adobe.io
